@@ -46,9 +46,16 @@ Project repository:
 
 ## 🏅 Certificate
 
-From : Part Computer Networks – Getting Started with Cisco Packet Tracer
+From : Pre1 Computer Networks - Getting Started with Cisco Packet Tracer
 
-<img width="782" height="526" alt="image" src="https://github.com/user-attachments/assets/e28454cc-5b94-458a-aa36-69a84fc7ee82" />
+<img width="776" height="530" alt="image" src="https://github.com/user-attachments/assets/27ccbd04-e224-4e44-9148-4ca8626c1594" />
+
+
+
+From : Pre2 Computer Networks - Exploring Networking with Cisco Packet Tracer
+<img width="777" height="521" alt="image" src="https://github.com/user-attachments/assets/fafcada3-0f6f-44c1-8b4a-880304f6beca" />
+
+
 
 
 ---
@@ -57,5 +64,6 @@ From : Part Computer Networks – Getting Started with Cisco Packet Tracer
 
 These are the scores from all the Checkpoint Exams taken at the Cisco Networking Academy.
 
-<img width="1853" height="245" alt="image" src="https://github.com/user-attachments/assets/b579b31e-9a0e-4a4c-8333-7fdcb41bbbf7" />
+<img width="1864" height="382" alt="image" src="https://github.com/user-attachments/assets/bc148c9e-673e-467a-8fbd-2ccc51fbd377" />
+
 
