@@ -38,7 +38,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 
 **High Mountain Networks:**  
 Project repository:  
-[[https://github.com/username/High-Mountain-Network](#)](https://github.com/piyapank-creator/NeuroEdge-Mesh-Network-Architecture-Specification_v1)
+(https://github.com/piyapank-creator/NeuroEdge-Mesh-Network-Architecture-Specification_v1)
 
 ---
 
