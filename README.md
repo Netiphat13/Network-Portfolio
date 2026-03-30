@@ -15,7 +15,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 
 | Assignment | Document Link | PDF File |
 |---|---|---|
-| Assignment 1 (Essay) | https://drive.google.com/file/d/1Vc5k09VInWAYNQHY3KfgkJSg-i64Fubd/view | [essay.pdf](#) |
+| Assignment 1 (Essay) | [essay.pdf]https://drive.google.com/file/d/1Vc5k09VInWAYNQHY3KfgkJSg-i64Fubd/view | [essay.pdf](#) |
 | Assignment 2 (Topology) | [topology](#) | [topology.pdf](#) |
 | Assignment 3 (Not Simple) | [not-simple](#) | [not-simple.pdf](#) |
 | Assignment 4 (TCP-UDP) | [TCP-UDP](#) | [TCP-UDP.pdf](#) |
