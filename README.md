@@ -1,7 +1,8 @@
 # Network-Portfolio
 
 นาย เนติภัทร ภูครองเพชร รหัสนักศึกษา 673380434-1 sec3
-Email: your-email@gmail.com
+---
+Email: Netiphat.p@kkumail.com
 
 ---
 
