@@ -14,7 +14,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 ## 📄 Personal Assignment
 
 | Assignment | PDF File |
-|---|---|---|
+|---|---|
 | Assignment 1 (Essay) | [essay.pdf](https://drive.google.com/file/d/1Vc5k09VInWAYNQHY3KfgkJSg-i64Fubd/view) |
 | Assignment 2 (Topology) | [topology.pdf](https://drive.google.com/file/d/1lIQIDaSM5HlictbUhaO1zmoJYPZjg_lz/view) |
 | Assignment 3 (Not Simple) | [not-simple.pdf](https://drive.google.com/file/d/1hAksFj0zbLeP6c8dORAPxBxnrE3RQIi-/view) |
@@ -25,7 +25,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 ## 🧪 Labs 1–5
 
 | Lab | PDF File |
-|---|---|---|
+|---|---|
 | Lab 1 | [Lab 1.pdf](https://drive.google.com/drive/folders/1A6axl-VB-MdVzz_okSHjzdhaEzM8e3qS) |
 | Lab 2 | [Lab 2.pdf](https://drive.google.com/drive/folders/1NXifiX-Nn7aClUpSq0k4HdLA7h18tbua) |
 | Lab 3 | [Lab 3.pdf](https://drive.google.com/file/d/1QvfvXweObGXBYP6xZ-MEe0884KbFQZhn/view) |
