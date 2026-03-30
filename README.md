@@ -13,24 +13,24 @@ This repository contains my assignments, labs, projects, and certificates relate
 
 ## 📄 Personal Assignment
 
-| Assignment | PDF File |
+| Assignment | File |
 |---|---|
-| Assignment 1 (Essay) | [essay.pdf](https://drive.google.com/file/d/1Vc5k09VInWAYNQHY3KfgkJSg-i64Fubd/view) |
-| Assignment 2 (Topology) | [topology.pdf](https://drive.google.com/file/d/1lIQIDaSM5HlictbUhaO1zmoJYPZjg_lz/view) |
-| Assignment 3 (Not Simple) | [not-simple.pdf](https://drive.google.com/file/d/1hAksFj0zbLeP6c8dORAPxBxnrE3RQIi-/view) |
-| Assignment 4 (TCP-UDP) | [TCP-UDP.pdf](https://docs.google.com/document/d/1Pa0V2f2yySFgDiv3ZFNAhmjMxjs6BIjqNePgU5e_or4/edit?tab=t.0) |
+| Assignment 1 (Essay) | [essay](https://drive.google.com/file/d/1Vc5k09VInWAYNQHY3KfgkJSg-i64Fubd/view) |
+| Assignment 2 (Topology) | [topology](https://drive.google.com/file/d/1lIQIDaSM5HlictbUhaO1zmoJYPZjg_lz/view) |
+| Assignment 3 (Not Simple) | [not-simple](https://drive.google.com/file/d/1hAksFj0zbLeP6c8dORAPxBxnrE3RQIi-/view) |
+| Assignment 4 (TCP-UDP) | [TCP-UDP](https://docs.google.com/document/d/1Pa0V2f2yySFgDiv3ZFNAhmjMxjs6BIjqNePgU5e_or4/edit?tab=t.0) |
 
 ---
 
 ## 🧪 Labs 1–5
 
-| Lab | PDF File |
+| Lab | File |
 |---|---|
-| Lab 1 | [Lab 1.pdf](https://drive.google.com/drive/folders/1A6axl-VB-MdVzz_okSHjzdhaEzM8e3qS) |
-| Lab 2 | [Lab 2.pdf](https://drive.google.com/drive/folders/1NXifiX-Nn7aClUpSq0k4HdLA7h18tbua) |
-| Lab 3 | [Lab 3.pdf](https://drive.google.com/file/d/1QvfvXweObGXBYP6xZ-MEe0884KbFQZhn/view) |
-| Lab 4 | [Lab 4.pdf](https://drive.google.com/file/d/1ZsO40KMjcEJNf3oKjrzKjIgHEO48Cwa7/view) |
-| Lab 5 | [Lab 5.pdf](https://drive.google.com/file/d/1YxoivdGCFwkMYVaKxp6XktstUNZHFz8N/view) |
+| Lab 1 | [Lab 1](https://drive.google.com/drive/folders/1A6axl-VB-MdVzz_okSHjzdhaEzM8e3qS) |
+| Lab 2 | [Lab 2](https://drive.google.com/drive/folders/1NXifiX-Nn7aClUpSq0k4HdLA7h18tbua) |
+| Lab 3 | [Lab 3](https://drive.google.com/file/d/1QvfvXweObGXBYP6xZ-MEe0884KbFQZhn/view) |
+| Lab 4 | [Lab 4](https://drive.google.com/file/d/1ZsO40KMjcEJNf3oKjrzKjIgHEO48Cwa7/view) |
+| Lab 5 | [Lab 5](https://drive.google.com/file/d/1YxoivdGCFwkMYVaKxp6XktstUNZHFz8N/view) |
 
 ---
 
