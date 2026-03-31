@@ -57,6 +57,8 @@ From : Pre2 Computer Networks - Exploring Networking with Cisco Packet Tracer
 <img width="777" height="521" alt="image" src="https://github.com/user-attachments/assets/fafcada3-0f6f-44c1-8b4a-880304f6beca" />
 
 
+from : [CP352005 2/25] CCNA1: Introduction to Networks
+<img width="619" height="428" alt="image" src="https://github.com/user-attachments/assets/8aba6c0f-e6d7-4902-be7f-abba79af4692" />
 
 
 
